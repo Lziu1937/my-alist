@@ -1,1 +1,1 @@
-FROM xhofe/alist:v3.42.0
+FROM xhofe/alist:v3.35.0
